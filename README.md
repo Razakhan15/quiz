@@ -1,6 +1,6 @@
 ## Clone the project
 
-  git clone (https://github.com/Razakhan15/quiz.git)
+  git clone https://github.com/Razakhan15/quiz.git
 
 ## Go to the project directory
 
