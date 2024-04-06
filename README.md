@@ -1,12 +1,15 @@
-##Clone the project
+## Clone the project
 
-  git clone https://github.com/Razakhan15/quiz.git
-##Go to the project directory
+  git clone (https://github.com/Razakhan15/quiz.git)
 
-  cd quiz
-##Install dependencies
+## Go to the project directory
 
-  npm install
-##Start the server
+  `cd quiz`
 
-  npm start
+## Install dependencies
+
+  `npm install`
+
+## Start the server
+
+  `npm start`
